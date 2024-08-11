@@ -9,20 +9,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 - **Languages**: Java, SQL, Python
 - **Technologies**: MySQL, Git, Docker
 - **Frameworks**: Spring Boot, Flask
-- **Tools**: Jupyter Notebook, MySQL Workbench, Eclipse
+- **Tools**: Jupyter Notebook, MySQL Workbench, Visual Studio Code
 
 ---
 
 ## 🚀 Projects
 
-### [Sorting Algorithms Visualizer](https://github.com/yourusername/sorting-algorithms-visualizer)
-An interactive tool to visualize various sorting algorithms and understand their performance for different input sizes.
-
-### [Sports Statistics Dashboard](https://github.com/yourusername/sports-statistics-dashboard)
-A dashboard that provides insights into sports data using advanced data visualization techniques.
-
-### [Database Management System](https://github.com/yourusername/database-management-system)
-A project that demonstrates the design and implementation of a database schema with stored procedures and functions.
+### [Data Analysis & Machine Learning 1st Project](https://github.com/kyl3h3arn/ITCS-6162-Project)
 
 ---
 
