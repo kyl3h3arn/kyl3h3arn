@@ -7,9 +7,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ## 🔧 Skills
 
 - **Languages**: Java, SQL, Python
-- **Technologies**: MySQL, Git, Docker
-- **Frameworks**: Spring Boot, Flask
-- **Tools**: Jupyter Notebook, MySQL Workbench, Visual Studio Code
+- **Technologies**: MySQL, Git
+- **Tools**: Jupyter Notebook, MySQL Workbench, Visual Studio Code, Anaconda
+
+---
+
+## 🎓 Education
+
+- **UNC Charlotte** - Master’s in Computer Science (Data Science concentration), expected graduation 2025
+- **Wingate University** - Bachelor of Science in Mathematics/Business
+- **South Piedmont Community College** - Associate in Arts
 
 ---
 
@@ -22,27 +29,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ## 💼 Experience
 
 ### Walgreens - Shift Lead
-- Managed a team of employees to ensure smooth operations and excellent customer service.
-- Assisted pharmacy staff with inventory management and customer inquiries.
-
-### Internships & Volunteer Work
-- Participated in open-source projects and contributed to various coding communities.
-
----
-
-## 🎓 Education
-
-- **UNC Charlotte** - Master’s in Computer Science (Data Science concentration), expected graduation 2024
-- **Wingate University** - Bachelor of Science in Mathematics/Business
-- **South Piedmont Community College** - Associate in Arts
+- **Leadership and Operations:** Managed employee task progress, product ordering, expense tracking, and cash accounting, developing organizational and analytical skills applicable to tech industry operations.
+- **Adaptability and Team Support:** Collaborated with nearby stores to address labor shortages, showcasing flexibility and the ability to adapt quickly to new environments.
+- **Customer Relations:** Assisted customers with inquiries, resolved conflicts, and ensured smooth business operations, strengthening communication and interpersonal skills.
+- **Pharmacy Assistance:** Supported pharmacy staff in prescription fulfillment and liaised with doctors and insurance companies, honing attention to detail and data accuracy.
+- **Store Management:** Held keyholding responsibilities, including opening and closing the store, receiving deliveries, and working outside of operating hours, emphasizing reliability and commitment.
+- **Project Management:** Played a crucial role in the closing of the original store, demonstrating project management skills and the ability to oversee complex transitions.
 
 ---
 
 ## 📫 Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- **TikTok**: [Kyrone’s Clips](https://www.tiktok.com/@kyroneclips)
+- **Email**: [Kylehearn00@gmail.com](mailto:kylehearn00@gmail.com)
+- **LinkedIn**: [linkedin.com/in/kyleahearn](https://www.linkedin.com/in/kyleahearn)
 
 Feel free to reach out to me for collaboration or if you have any questions!
 
@@ -52,5 +51,6 @@ Feel free to reach out to me for collaboration or if you have any questions!
 
 - I'm a big fan of sports and love analyzing game statistics.
 - I'm always eager to learn new technologies and improve my skills.
+- I love lifting weights!
 
-Thanks for visiting my profile! Have a great day!
+Thanks for visiting my profile!
