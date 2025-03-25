@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🔧 Skills
 
-- **Languages**: Java, SQL, Python
-- **Technologies**: MySQL, Git
-- **Tools**: Jupyter Notebook, MySQL Workbench, Visual Studio Code, Anaconda
+- **Languages**: Java, SQL, Python, HTML/CSS
+- **Tools & Technologies**: PyTorch, FastAI, Pandas, NumPy, Jupyter Notebook, Git, GitHub, MySQL, AWS (basic proficiency), Jupyter Notebook, MySQL Workbench, Visual Studio Code, Anaconda
+- **Concepts**: Machine Learning, Data Structures & Algorithms, Object-Oriented Programming, Data Analysis, Software Development Lifecycle (SDLC)
 
 ---
 
