@@ -22,8 +22,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🚀 Projects
 
-### [Data Analysis & Machine Learning 1st Project](https://github.com/kyl3h3arn/ITCS-6162-Project)
+### [Analysis of Mobile Phone Usage Impact on Student Health and Academic Performance](https://github.com/kyl3h3arn/ITCS-6162-Project)
 ### [Machine Learning Algorithms for Breast Cancer Prediction](https://github.com/kyl3h3arn/ITCS-5154-Project)
+### [AI Connect 4 Game](https://github.com/kyl3h3arn/Connect-4)
 
 ---
 
