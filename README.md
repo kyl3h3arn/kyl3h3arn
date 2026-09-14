@@ -36,15 +36,15 @@ By leveraging AWS Redshift, PowerShell, and Excel VBA, I develop custom tools th
 
 ### Spectrum - Associate Decision Support Analyst
 #### Responsibilities:
-- **Own the core financial model and build complex Alteryx workflows to evaluate & report incoming sales deals.
-- **Conduct financial evaluations for new product launches and manage cost-to-price updates for existing products.
-- **Manage databases within AWS Redshift to support daily commercial sales operations and reporting.
-- **Partner with Product, Engineering, and Finance teams to validate data and standardize operational reporting/processes.
+- Own the core financial model and build complex Alteryx workflows to evaluate & report incoming sales deals.
+- Conduct financial evaluations for new product launches and manage cost-to-price updates for existing products.
+- Manage databases within AWS Redshift to support daily commercial sales operations and reporting.
+- Partner with Product, Engineering, and Finance teams to validate data and standardize operational reporting/processes.
 
 #### Accomplishments:
-- **Fiber Survey Model Tool: Engineered a data-querying feature that pulls directly from the core financial model, reducing latency from minutes to milliseconds.
-- **Billing Information Module: Developed a standalone module using VBA and SQL to pull and analyze historical billing data for target locations.
-- **Automated BOM Importer: Programmed a VBA script to automate the Bill of Materials import process from numeric inputs, saving 10+ hours weekly.
+- Fiber Survey Model Tool: Engineered a data-querying feature that pulls directly from the core financial model, reducing latency from minutes to milliseconds.
+- Billing Information Module: Developed a standalone module using VBA and SQL to pull and analyze historical billing data for target locations.
+- Automated BOM Importer: Programmed a VBA script to automate the Bill of Materials import process from numeric inputs, saving 10+ hours weekly.
 
 ### Walgreens - Shift Lead
 - **Leadership and Operations:** Managed employee task progress, product ordering, expense tracking, and cash accounting, developing organizational and analytical skills applicable to tech industry operations.
