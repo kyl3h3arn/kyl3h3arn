@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Kyle!
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in data science and sports statistics. I'm currently pursuing my master's degree in computer science with a concentration in data science at UNC Charlotte. My goal is to secure an internship or entry-level position in the tech industry in the Charlotte-Metro area.
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in data science and sports statistics. In my current role at Spectrum Business, I optimize sales operations by architecting automated reporting workflows and maintaining high-integrity data structures.
+
+I translate complex datasets into actionable insights for stakeholders while ensuring the precision of our predictive models through continuous refinement. 
+
+By leveraging AWS Redshift, PowerShell, and Excel VBA, I develop custom tools that eliminate operational bottlenecks, significantly accelerating the sales cycle and driving overall efficiency.
 
 ---
 
@@ -14,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🎓 Education
 
-- **UNC Charlotte** - Master’s in Computer Science (Data Science concentration), expected graduation 2025
+- **UNC Charlotte** - Master’s in Computer Science (Data Science concentration)
 - **Wingate University** - Bachelor of Science in Mathematics/Business
 - **South Piedmont Community College** - Associate in Arts
 
@@ -29,6 +33,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ---
 
 ## 💼 Experience
+
+### Spectrum - Associate Decision Support Analyst
+#### Responsibilities:
+- **Own the core financial model and build complex Alteryx workflows to evaluate & report incoming sales deals.
+- **Conduct financial evaluations for new product launches and manage cost-to-price updates for existing products.
+- **Manage databases within AWS Redshift to support daily commercial sales operations and reporting.
+- **Partner with Product, Engineering, and Finance teams to validate data and standardize operational reporting/processes.
+
+#### Accomplishments:
+- **Fiber Survey Model Tool: Engineered a data-querying feature that pulls directly from the core financial model, reducing latency from minutes to milliseconds.
+- **Billing Information Module: Developed a standalone module using VBA and SQL to pull and analyze historical billing data for target locations.
+- **Automated BOM Importer: Programmed a VBA script to automate the Bill of Materials import process from numeric inputs, saving 10+ hours weekly.
 
 ### Walgreens - Shift Lead
 - **Leadership and Operations:** Managed employee task progress, product ordering, expense tracking, and cash accounting, developing organizational and analytical skills applicable to tech industry operations.
